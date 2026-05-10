@@ -1,4 +1,4 @@
-**The assignment submission deadline is 11th May 11:59 pm**  
+**The extended assignment submission deadline is 14th May 11:59 pm**  
 *Important: The submission will be in the form of a google drive link, make sure that the permission settings allow anyone to view and that there are 2 separate folders for the Coding and Theory Assignmeent respectively*
 
 
